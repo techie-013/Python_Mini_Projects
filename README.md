@@ -16,6 +16,7 @@ Each project is self-contained, easy to understand, and runs from the terminal w
 |----------------------|-------------|
 | `quiz_game.py`       | A multiple-choice quiz game with scoring and instant feedback. |
 | `number_guess.py`    | A number guessing game using random number generation and input validation. |
+| `snake_water_gun.py` | A command-line Snake-Water-Gun game with score tracking and computer as opponent. |
 | *(More coming soon)* | Daily/weekly updates planned — stay tuned! |
 
 ---
